@@ -1,0 +1,11 @@
+h1 {
+    font-family: "Poiret One";
+}
+
+body {
+    font-family: "Noto Sans KR";
+}
+
+.wrapper {
+    max-width: 1080px;
+}
